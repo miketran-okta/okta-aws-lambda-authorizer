@@ -1,0 +1,16 @@
+{
+  "name": "okta-APIAM-lambda-authorizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Tran",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "oauth2-bearer-jwt-handler": "https://github.com/miketran-okta/okta-projects",
+    "sync-request": "^6.0.0"
+  }
+}
