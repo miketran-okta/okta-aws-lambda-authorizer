@@ -1,4 +1,4 @@
-# AWS Lambda Authorizer for Okta API Authorzation Server
+# AWS API Gateway Lambda Authorizer for Okta API Authorzation Server
 
 This Lambda Authorizer integrates with Okta' API Access Management to secure endpoints proxied by the AWS API Gateway.  In this architecture, the AWS API Gateway acts as the PEP where as Okta acts as the PDP and PIP.  The highlevel flow includes:
 
